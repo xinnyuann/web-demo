@@ -1,4 +1,4 @@
-# xinyuan.github.io
+### xinyuan.github.io
 
 
-# design from: http://jlord.us/hello/
+design from: http://jlord.us/hello/
